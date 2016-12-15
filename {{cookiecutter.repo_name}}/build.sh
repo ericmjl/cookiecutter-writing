@@ -11,7 +11,7 @@ pandoc text.md \
   --filter=pandoc-citeproc \
   --bibliography=papers-library.bib
 
-pandoc 01-research-statement.md \
+pandoc text.md \
     -o index.html \
     --filter=pandoc-fignos \
     --filter=pandoc-citeproc \
