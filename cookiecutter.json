@@ -2,5 +2,7 @@
     "repo_name": "github-repo-name",
     "title": "My Project Title",
     "author_name": "Eric J. Ma",
-    "author_affiliation": "Department of Biological Engineering, MIT"
+    "author_affiliation": "Department of Biological Engineering, MIT",
+    "date":"",
+    "gh_username": "ericmjl"
 }
