@@ -4,5 +4,6 @@
     "gh_username": "ericmjl",
     "author_name": "Eric J. Ma",
     "author_affiliation": "Department of Biological Engineering, MIT",
-    "date":""
+    "date":"",
+    "_ignore_files": ["*.DS_Store"]
 }
